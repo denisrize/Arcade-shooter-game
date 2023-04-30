@@ -5,7 +5,7 @@
 
 
 ## Assignment 2.
-Link you the website [Game](https://web-development-environments-2023.github.io/assignment2-208892166_316476431/)
+Link to our the website [Game](https://web-development-environments-2023.github.io/assignment2-208892166_316476431/)
 
 
 Delevired to you by 316476431 and 208892166, enjoy.
